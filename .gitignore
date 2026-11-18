@@ -6,5 +6,15 @@ dist/
 wheels/
 *.egg-info
 
+# test 
+test/
 # Virtual environments
 .venv
+
+# Config and info
+.env
+claude.md
+experiment.md
+
+# Generated transcripts 
+transcripts/
